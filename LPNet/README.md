@@ -16,7 +16,7 @@ Test Images are located in ```./LPNet/test_img/img/``` directory
 
 Results are located in ```./LPNet/test_img/results/``` directory
 
-Run ```python testing.py``` to run model on the test images.
+Run ```python testing.py``` to run trained model on the test images.
 
 ## LPNet Author's Notes
 
