@@ -1,6 +1,8 @@
-# ConfettiRemoval by PepeWritesCode for CSC420 Fall 2020
+# ConfettiRemoval
 
-3 methods to address Confetti:
+by PepeWritesCode for CSC420 Fall 2020
+
+3 methods were used to address Confetti:
 
 [ScatterInpaintingAlgorithm for Confetti Removal](https://github.com/tancalv2/ConfettiRemoval/tree/main/ScatterInpaintingAlgorithm)
 
