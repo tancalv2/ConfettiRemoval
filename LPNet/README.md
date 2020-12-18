@@ -1,20 +1,20 @@
 # LPNet Confetti Removal
 
 ## Training the Model
-Training Input is located in ```./LPNet/TrainData/input/```
+Training Input is located in ```./LPNet/TrainData/input/```.
 
-Training Label is located in ```./LPNet/TrainData/label/```
+Training Label is located in ```./LPNet/TrainData/label/```.
 
-Additional training examples are located in ```./LPNet/TrainData/additional_frames/```
+Additional training examples are located in ```./LPNet/TrainData/additional_frames/```.
 
 Run ```python training.py``` to train model with the input images.
 
 ## Running the Train Model
-Trained model is located in ```./LPNet/model/``` directory
+Trained model is located in ```./LPNet/model/``` directory.
 
-Test Images are located in ```./LPNet/test_img/img/``` directory
+Test Images are located in ```./LPNet/test_img/img/``` directory.
 
-Results are located in ```./LPNet/test_img/results/``` directory
+Results are located in ```./LPNet/test_img/results/``` directory.
 
 Run ```python testing.py``` to run trained model on the test images.
 
