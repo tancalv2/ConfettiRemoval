@@ -9,7 +9,7 @@ Additional training examples are located in ```./LPNet/TrainData/additional_fram
 
 Run ```python training.py``` to train model with the input images.
 
-## Running the Train Model
+## Running the Trained Model
 Trained model is located in ```./LPNet/model/``` directory.
 
 Test Images are located in ```./LPNet/test_img/img/``` directory.
